@@ -486,7 +486,7 @@
             </div>
             <div class="row">
                 <p>
-                    Web Site is Developed Using HTML5, CSS3, JQuery, PHP and AJax. No copyrights here.<br>
+                    Web Site is Developed By Sameer Rathod and Hrushikesh Joshi, Using HTML5, CSS3, JQuery, PHP and AJax. No copyrights here.<br>
                     This webpage is for Foodies!
                 </p>
                 <p>
